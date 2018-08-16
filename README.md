@@ -4,7 +4,7 @@
 - This script process the input text file (mentioned above) to generate a parallel corpus. 
 - Output of this script (parallel corpus) can be used to train transliteration model on MOSES.
 ## Author
-Moodser Hussain
+- Moodser Hussain
 - COMSATS University Islamabad, Lahore Campus
 - Email: moodser.hussain@gmail.com
 ## Acknowledgement
