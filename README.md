@@ -18,3 +18,4 @@ Special thanks to Dr. Rao Muhammad Adeel Nawab and Sir Muhammad Sharjeel for the
 
 ## Caution
 - This Script is tested on English-Urdu parallel titles extracted from https://dumps.wikimedia.org/urwiki/20180801/ using https://github.com/clab/wikipedia-parallel-titles
+- Python version 3.6 was used for testing this script.
